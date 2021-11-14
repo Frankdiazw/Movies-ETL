@@ -1,5 +1,7 @@
 # Movies-ETL
 
+![](https://github.com/Frankdiazw/Movies-ETL/blob/main/Resources/ETL.png)
+
 ## Purpose of the challenge
 Amazing Prime Video is a platform for streaming movies and TV shows on Amazing Prime. The team of Amazing Prime Video wants to develop an algorithm to predict which of the low budget movies being released will become popular so they can buy their streaming rights. 
 
